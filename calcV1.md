@@ -1,0 +1,8 @@
+# Introduction #
+
+This is alpha version 0.1 of my calculator using java.
+
+
+# Details #
+
+I've developed an open source calculator using Java Swing. This is very basic version of calculator and having numbers of bugs. Removing bugs and advance featured calculator is under processing and available soon. Any one can help and suggest me to improve this calculator program.
